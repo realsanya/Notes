@@ -1,0 +1,4 @@
+app\entities\Note.class
+app\servlets\ListServlet.class
+app\model\Model.class
+app\servlets\AddServlet.class
